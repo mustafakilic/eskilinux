@@ -1,5 +1,5 @@
 #!/bin/bash
-./cleanup*
+./temizle*
 # eskilinux
 sudo chown -R root airootfs/
 sudo chgrp -R root airootfs/
